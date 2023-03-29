@@ -1,0 +1,8 @@
+C:\Users\CJ3016943\source\repos\aao\aao\bin\Debug\aao.exe.config
+C:\Users\CJ3016943\source\repos\aao\aao\bin\Debug\aao.exe
+C:\Users\CJ3016943\source\repos\aao\aao\bin\Debug\aao.pdb
+C:\Users\CJ3016943\source\repos\aao\aao\obj\Debug\aao.csproj.AssemblyReference.cache
+C:\Users\CJ3016943\source\repos\aao\aao\obj\Debug\aao.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ3016943\source\repos\aao\aao\obj\Debug\aao.csproj.CoreCompileInputs.cache
+C:\Users\CJ3016943\source\repos\aao\aao\obj\Debug\aao.exe
+C:\Users\CJ3016943\source\repos\aao\aao\obj\Debug\aao.pdb
